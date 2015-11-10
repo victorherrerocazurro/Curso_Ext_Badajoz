@@ -188,4 +188,7 @@ Ext.onReady(function(){
 
 	pedido2.renderTo(Ext.getBody());
 
+	pedido.addProductos(monitor);
+
+
 });
