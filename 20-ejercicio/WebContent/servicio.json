@@ -1,0 +1,24 @@
+{
+	'msg':'Este emsaje es generado en el servidor', 
+	'success': true,
+	'data': [
+		{
+			'idProducto': 1,
+			'nombre': 'Telefono',
+			'descripcion': 'Telefono inhalambrico',
+			'qwerty': true
+		},
+		{
+			'idProducto': 2,
+			'nombre': 'Raton',
+			'descripcion': 'Raton optico',
+			'optico': true
+		},
+		{
+			'idProducto': 3,
+			'nombre': 'Monitor',
+			'descripcion': 'Monitor Led',
+			'tipo': 'Led'
+		}
+	]
+}
