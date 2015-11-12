@@ -1,0 +1,10 @@
+{
+	"productos":[
+		{"id":"1", "nombre": "Raton", "descripcion": "raton Optico", "precio": "12"},
+		{"id":"2", "nombre": "Teclado", "descripcion": "Teclado QWERTY", "precio": "20"},
+		{"id":"3", "nombre": "Pantalla", "descripcion": "Pantalla Led", "precio": "150"}
+	],
+	"meta": {
+		"success": "true"
+	}
+}	

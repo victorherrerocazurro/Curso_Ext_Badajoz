@@ -1,0 +1,6 @@
+{
+	"users":[{"id":"1", "nombre": "Victor", "phone": "123456"}],
+	"meta": {
+		"success": "true"
+	}
+}	

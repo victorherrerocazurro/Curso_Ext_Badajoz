@@ -29,10 +29,12 @@ Ext.onReady(function() {
         }
     });
 
-
     store.load();
 
-    store.each(function(item){
-        console.info(item);
-    });
+    setTimeout(function(){
+        store.each(function(item){
+            console.info(item);
+        });
+    }, 3000);
+    
 });
